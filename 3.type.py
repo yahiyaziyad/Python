@@ -1,0 +1,11 @@
+x=9
+y="yahiy"
+z=True
+a=False
+r=0
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))
+print(type(r))
+print(type("yahiya"))
